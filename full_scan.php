@@ -12,7 +12,7 @@ if (file_exists($themePath)) include($themePath);
 $theme = $_SESSION['theme'] ?? 'dark';
 
 // Directory to scan
-$directoryToScan = 'C:\wamp64\www\hdalert';
+$directoryToScan = 'C:\xampp\htdocs\hack_detection';
 
 $suspiciousPatterns = array(
   '/base64_decode/i',

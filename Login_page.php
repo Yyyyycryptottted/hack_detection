@@ -161,7 +161,8 @@ label{display:block;color:#a9c7d6;font-size:.92rem;margin-bottom:6px}
   </form>
 
   <div class="footer">
-    <p>Not registered? <a href="registration.php">Create an account</a></p>
+    <p>Not registered? <a href="registration.php">Create an account</a></p> <br>
+    <p>forgot password? <a href="change password.php">change passwordt</a></p>
   </div>
 </div>
 
